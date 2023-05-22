@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<h2>This repository concludes all Linq extension methodes in one single console application with comments</h2>
+<h2>💬 This repository concludes all Linq extension methodes in one single console application with comments</h2>
 
-<h4>Here is a summary of all the LINQ functions available in C#:</h4>
+<h4>🔥🔥Here is a summary of all the LINQ functions available in C#:</h4>
 
 1. Aggregate: Performs a custom aggregation operation on a collection.
 2. All: Determines whether all elements of a collection satisfy a condition.
